@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760760012381",
+    "firebase_url": "https://basiclogin-633fe.firebaseio.com",
+    "project_id": "basiclogin-633fe",
+    "storage_bucket": "basiclogin-633fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760760012381:android:d4bcbae8981c556a",
+        "android_client_info": {
+          "package_name": "apps.onkar.android.basiclogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760760012381-orv1c09ehjfosrd3bs7tgth6abrqhi4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.onkar.android.basiclogin",
+            "certificate_hash": "081e65c587e2eac8234183de566543c7b944952c"
+          }
+        },
+        {
+          "client_id": "760760012381-afi8nl3i8k18uuoog10j5rnqk0etk8md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB88bnXpFzOL-lMoH2ONHmk9qm1lkA1mxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760760012381-afi8nl3i8k18uuoog10j5rnqk0etk8md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

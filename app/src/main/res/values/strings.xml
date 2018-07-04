@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicLogin</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_signup">SignUp</string>
+    <string name="title_activity_user_register">UserRegister</string>
+    <string name="nameerror">Enter Valid Name</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Enter Some Password</string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+</resources>
